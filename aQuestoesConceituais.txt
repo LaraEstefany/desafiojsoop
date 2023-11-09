@@ -1,0 +1,20 @@
+Questões conceituais
+
+1. O que são Classes ?
+R: Classes são como moldes, de forma que compõem as características e comportamentos (atributos e métodos) para a criação, ou instanciamento, de objetos, sua principal função.
+
+2. O que são Atributos ?
+R: Atributos são as “características”, ou seja, os dados atrelados a um objeto.
+Ex: Num objeto HB20, pertencente à classe Carros, um atributo seria Cor ou Câmbio automático, etc.
+
+3. O que são Métodos ?
+R: Métodos são os “comportamentos” de um objeto, algo que ele pode “fazer”, como no exemplo anterior, um método seria Acelerar, Frear, etc.
+
+4. Qual a diferença entre Classe e Objeto ?
+R: Classe é o que gera um Objeto, a Classe define os Atributos e Métodos base de um Objeto, que por sua vez é instanciado pela Classe que deu sua origem, de modo a ser possível a existência de diferentes objetos, todos pertencentes à mesma classe.
+
+5. O que significa “instanciar um objeto de uma classe” ?
+R: Instanciar um objeto de uma classe é justamente criar um objeto através do molde definido pela classe.
+
+6. O que é e qual a finalidade de um “método Construtor” ?
+R: Método construtor é um método especial, pois só pode ser utilizado uma vez, que funciona para criar, inicializar e definir os parâmetros/atributos de um objeto que foi criado a partir de uma classe.
